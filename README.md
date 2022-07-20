@@ -16,9 +16,4 @@ And there are addition blocks with using meditology BEM such as:
   ...many other blocks.
   
   
-I use many appropriate and modern technology.
-Used:
-  -html,
-  -css,
-  -EsLint,
-  -BEM,
+I use a lot of appropriate and modern technologies. Used: -html, -css, -EsLint, -BEM,
